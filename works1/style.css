@@ -1,0 +1,28 @@
+p{
+    color:  red
+}
+
+header{
+    background-color: green;
+}
+
+header a{
+    color: aquamarine;
+}
+
+label{
+    color: #11327a;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+
+}
+
+h3{ text-align: center;}
+
+input{background-color: greenyellow;}
